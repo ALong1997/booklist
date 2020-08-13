@@ -9,13 +9,13 @@
 
 [My Notes](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
 
-> 如何找书：
->>- [微信读书](https://weread.qq.com/)
->>- [Go语言中文网](https://books.studygolang.com/gopl-zh/)
->>- [github](https://github.com/)
->>- [图灵社区](https://www.ituring.com.cn/)
->>- [IT电子书下载网站](https://www.iteye.com/blog/rensanning-1874125)
->>- 实体书
+如何找书：
+- [微信读书](https://weread.qq.com/)
+- [Go语言中文网](https://books.studygolang.com/gopl-zh/)
+- [github](https://github.com/)
+- [图灵社区](https://www.ituring.com.cn/)
+- [IT电子书下载网站](https://www.iteye.com/blog/rensanning-1874125)
+- 实体书
 
 
 ## Golang (3/8)
