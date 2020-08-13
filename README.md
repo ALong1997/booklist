@@ -24,8 +24,8 @@
 - [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
 - [《Go 语言从入门进阶到实战（视频教学版）》](https://weread.qq.com/) // Done
 - [《Go Web 编程》](https://weread.qq.com/) // Doing
-- 《Go 学习笔记（第四版）》 // ToDo
-- 《Go 学习笔记（第六版下卷）》 // ToDo
+- [《Go 学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // ToDo
+- [《Go 学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // ToDo
 - 《Go 语言实战》 // ToDo
 - 《Go 源码剖析》 // ToDo
 - [《Go 语言高级编程》](https://weread.qq.com/) // ToDo
