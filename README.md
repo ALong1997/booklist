@@ -24,7 +24,8 @@
 - [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
 - [《Go 语言从入门进阶到实战（视频教学版）》](https://weread.qq.com/) // Done
 - [《Go Web 编程》](https://weread.qq.com/) // Doing
-- 《Go 学习笔记》 // ToDo
+- 《Go 学习笔记（第四版）》 // ToDo
+- 《Go 学习笔记（第六版下卷）》 // ToDo
 - 《Go 语言实战》 // ToDo
 - 《Go 源码剖析》 // ToDo
 - [《Go 语言高级编程》](https://weread.qq.com/) // ToDo
@@ -42,7 +43,7 @@
 
 - [《穿越计算机的迷雾》](https://weread.qq.com/) // Done
 - [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/labs.html) // Doing
-- 《现代操作系统（第 4 版）》 // ToDo
+- 《现代操作系统》 // ToDo
 
 ## Linux / Unix (1/2)
 
@@ -64,9 +65,9 @@
 - [《编程之美》](https://weread.qq.com/) // ToDo
 - [《剑指 offer》](https://weread.qq.com/) // ToDo
 - [《Go 程序员面试算法宝典》](https://weread.qq.com/) // ToDo
-- [《程序员代码面试指南：IT名企算法与数据结构题目最优解（第2版）》](https://weread.qq.com/) // ToDo
-- 《编程珠玑（第 2 版）》 // ToDo
-- 《算法（第 4 版）》 // ToDo
+- [《程序员代码面试指南：IT名企算法与数据结构题目最优解（第二版）》](https://weread.qq.com/) // ToDo
+- 《编程珠玑》 // ToDo
+- 《算法》 // ToDo
 - 《算法导论》 // ToDo
 
 ## Clean code (1/5)
@@ -89,7 +90,7 @@
 
 ## Design pattern (0/1)
 
-- [《设计模式之禅（第2版）》](https://weread.qq.com/) // ToDo
+- [《设计模式之禅（第二版）》](https://weread.qq.com/) // ToDo
 
 
 ## Microservice (0/1)
@@ -98,9 +99,9 @@
 
 ## Docker (0/1)
 
-- [《Docker 容器与容器云（第 2 版）》](https://weread.qq.com/) // ToDo
+- [《Docker 容器与容器云（第二版）》](https://weread.qq.com/) // ToDo
 
 ## Others (0/2)
 
 - [《程序员修炼之道:程序设计入门30讲》](https://weread.qq.com/) // ToDo
-- [《程序员面试经典（第6版）》](https://weread.qq.com/) // ToDo
+- [《程序员面试经典（第六版）》](https://weread.qq.com/) // ToDo
