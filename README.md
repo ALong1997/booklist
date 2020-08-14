@@ -15,6 +15,7 @@
 - [github](https://github.com/)
 - [图灵社区](https://www.ituring.com.cn/)
 - [IT电子书下载网站](https://www.iteye.com/blog/rensanning-1874125)
+- 群文件
 - 实体书
 
 
@@ -78,11 +79,12 @@
 - [《修改代码的艺术》](./clean-code/修改代码的艺术.pdf) // ToDo
 - 《重构：改善既有代码的设计》 // ToDo
 
-## MySQL (3/3)
+## MySQL (3/4)
 
 - [《MySQL 必知必会》](https://weread.qq.com/) // Done
 - [《MySQL 技术内幕：InnoDB 存储引擎》](https://weread.qq.com/) // Done
 - [《MySQL 技术内幕：SQL 编程》](https://weread.qq.com/) // Done
+- [《高性能MySQL（第三版）》] // ToDo
 
 ## Redis (0/1)
 
