@@ -85,7 +85,7 @@
 - [《MySQL 必知必会》](https://weread.qq.com/) // Done
 - [《MySQL 技术内幕：InnoDB 存储引擎》](https://weread.qq.com/) // Done
 - [《MySQL 技术内幕：SQL 编程》](https://weread.qq.com/) // Done
-- [《高性能MySQL（第三版）》] // ToDo
+- 《高性能MySQL（第三版）》 // ToDo
 
 ## Redis (0/1)
 
