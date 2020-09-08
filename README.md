@@ -3,8 +3,8 @@
 📚 技术书单涵盖：编程语言、计算机系统、网络协议、算法与数据结构、数据库、代码艺术、设计模式、系统架构、微服务、程序员职业修炼等相关书籍。
 
 >书单不断扩充并更新中,目前:  
->- Done: 14/42  
->- Doing: 2/42  
+>- Done: 15/42  
+>- Doing: 1/42  
 >- ToDo: 26/42  
 
 [***My Notes***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
@@ -25,7 +25,7 @@
 - [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
 - [《Go 语言从入门进阶到实战（视频教学版）》](https://weread.qq.com/) // Done
 - [《Effective Go》](https://learnku.com/docs/effective-go/2020) // Done
-- [《Go Web 编程》](https://weread.qq.com/) // Doing
+- [《Go Web 编程》](https://weread.qq.com/) // Done
 - [《Go 学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // ToDo
 - [《Go 学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // ToDo
 - 《Go 语言实战》 // ToDo
