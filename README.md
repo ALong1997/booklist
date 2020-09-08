@@ -19,7 +19,7 @@
 - 实体书
 
 
-## Golang (4/9)
+## Golang (5/9)
 
 - [《Go 程序设计语言》](https://books.studygolang.com/gopl-zh/) // Done
 - [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
