@@ -36,8 +36,9 @@
 
 - [《Python 编程：从入门到实践》](https://weread.qq.com/) // ToDo
 
-## C++ (0/2)
+## C++ (1/3)
 
+- [《高质量程序设计指南 ———— C/C++语言》](./clean-code/代码整洁之道.pdf) // Done
 - 《STL源码剖析》 // ToDo
 - 《Inside The C++ Object Model》 // ToDo
 
@@ -72,9 +73,8 @@
 - 《算法》 // ToDo
 - 《算法导论》 // ToDo
 
-## Clean code (1/5)
+## Clean code (0/4)
 
-- [《高质量程序设计指南 ———— C/C++语言》](./clean-code/代码整洁之道.pdf) // Done
 - [《代码大全》](./clean-code/代码大全.pdf) // ToDo
 - [《编写可读代码的艺术》](./clean-code/编写可读代码的艺术.pdf) // ToDo
 - [《修改代码的艺术》](./clean-code/修改代码的艺术.pdf) // ToDo
