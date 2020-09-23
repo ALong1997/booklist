@@ -3,9 +3,9 @@
 📚 技术书单涵盖：编程语言、计算机系统、网络协议、算法与数据结构、数据库、代码艺术、设计模式、系统架构、微服务、程序员职业修炼等相关书籍。
 
 >书单不断扩充并更新中,目前:  
->- ToDo: 26/42  
->- Doing: 2/42  
->- Done: 14/42  
+>- ToDo: 28/45  
+>- Doing: 2/45  
+>- Done: 15/45  
 
 
 [***My Notes***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
@@ -20,7 +20,7 @@
 - 实体书
 
 
-## Golang (6/9)
+## Golang (6/11)
 
 - [《Go 程序设计语言》](https://books.studygolang.com/gopl-zh/) // Done
 - [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
@@ -29,8 +29,9 @@
 - [《Go Web 编程》](https://weread.qq.com/) // Done
 - [《Go 学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // Doing
 - [《Go 学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // Done
-- 《Go 语言实战》 // ToDo
-- 《Go 源码剖析》 // ToDo
+- [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
+- [《GO专家编程》](https://books.studygolang.com/GoExpertProgramming/) // ToDo
+- [《Go 语言设计与实现》](https://draveness.me/golang/) // ToDo
 - [《Go 语言高级编程》](https://weread.qq.com/) // ToDo
 
 ## Python (0/1)
@@ -101,8 +102,9 @@
 
 - [《微服务设计》](https://weread.qq.com/) // ToDo
 
-## Docker (0/1)
+## Docker (0/2)
 
+- [《Docker — 从入门到实践》](https://books.studygolang.com/docker_practice/) // ToDo
 - [《Docker 容器与容器云（第二版）》](https://weread.qq.com/) // ToDo
 
 ## Others (1/2)
