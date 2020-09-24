@@ -29,10 +29,10 @@
 - [《Go Web 编程》](https://weread.qq.com/) // Done
 - [《Go 学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // Done
 - [《Go 学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // Done
-- [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
 - [《Go 语言设计与实现》](https://draveness.me/golang/) // ToDo
 - [《GO专家编程》](https://books.studygolang.com/GoExpertProgramming/) // ToDo
 - [《Go 语言高级编程》](https://weread.qq.com/) // ToDo
+- [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
 
 ## Python (0/1)
 
