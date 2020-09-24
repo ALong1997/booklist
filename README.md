@@ -4,8 +4,8 @@
 
 >书单不断扩充并更新中,目前:  
 >- ToDo: 28/46  
->- Doing: 2/46  
->- Done: 15/46  
+>- Doing: 1/46  
+>- Done: 16/46  
 
 
 [***My Notes***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
@@ -20,14 +20,14 @@
 - 实体书
 
 
-## Golang (6/11)
+## Golang (7/11)
 
 - [《Go 程序设计语言》](https://books.studygolang.com/gopl-zh/) // Done
 - [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
 - [《Go 语言从入门进阶到实战（视频教学版）》](https://weread.qq.com/) // Done
 - [《Effective Go》](https://learnku.com/docs/effective-go/2020) // Done
 - [《Go Web 编程》](https://weread.qq.com/) // Done
-- [《Go 学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // Doing
+- [《Go 学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // Done
 - [《Go 学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // Done
 - [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
 - [《Go 语言设计与实现》](https://draveness.me/golang/) // ToDo
