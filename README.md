@@ -3,9 +3,9 @@
 📚 技术书单涵盖：编程语言、计算机系统、网络协议、算法与数据结构、数据库、代码艺术、设计模式、系统架构、微服务、程序员职业修炼等相关书籍。
 
 >书单不断扩充并更新中,目前:  
->- ToDo: 25/46  
->- Doing: 2/46  
->- Done: 17/46  
+>- ToDo: 27/48  
+>- Doing: 2/48  
+>- Done: 17/48  
 
 
 [***My Notes***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
@@ -50,10 +50,11 @@
 - [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/labs.html) // Doing
 - 《现代操作系统》 // ToDo
 
-## Linux / Unix (1/2)
+## Linux / Unix (1/3)
 
 - [《Linux 就该这么学》](https://weread.qq.com/) // Done
 - [《Linux 系统命令及脚本实战指南》](https://weread.qq.com/) // ToDo
+- [《Unix 编程艺术》](https://weread.qq.com/) // ToDo
 
 ## TCP (1/2)
 
@@ -103,10 +104,11 @@
 
 - [《微服务设计》](https://weread.qq.com/) // ToDo
 
-## Docker (0/2)
+## Docker (0/3)
 
 - [《Docker — 从入门到实践》](https://books.studygolang.com/docker_practice/) // ToDo
-- [《Docker 容器与容器云（第二版）》](https://weread.qq.com/) // ToDo
+- [《Docker:容器与容器云（第二版）》](https://weread.qq.com/) // ToDo
+- [《深入浅出Docker》](https://weread.qq.com/) // ToDo
 
 ## Others (1/2)
 
