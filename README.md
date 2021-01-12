@@ -3,9 +3,9 @@
 📚 技术书单涵盖：编程语言、计算机系统、网络协议、算法与数据结构、数据库、代码艺术、设计模式、系统架构、微服务、程序员职业修炼等相关书籍。
 
 >书单不断扩充并更新中,目前:  
->- ToDo: 27/48  
->- Doing: 2/48  
->- Done: 17/48  
+>- ToDo: 32/53  
+>- Doing: 2/53  
+>- Done: 17/53  
 
 
 [***My Notes***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
@@ -20,7 +20,7 @@
 - 实体书
 
 
-## Golang (8/11)
+## Golang (8/12)
 
 - [《Go 程序设计语言》](https://books.studygolang.com/gopl-zh/) // Done
 - [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
@@ -30,6 +30,7 @@
 - [《Go 学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // Done
 - [《Go 学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // Done
 - [《Go 语言设计与实现》](https://draveness.me/golang/) // Done
+- [《Go并发编程实战》] // ToDo
 - [《GO专家编程》](https://books.studygolang.com/GoExpertProgramming/) // ToDo
 - [《Go 语言高级编程》](https://weread.qq.com/) // ToDo
 - [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
@@ -50,11 +51,13 @@
 - [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/labs.html) // Doing
 - 《现代操作系统》 // ToDo
 
-## Linux / Unix (1/3)
+## Linux / Unix (1/5)
 
 - [《Linux 就该这么学》](https://weread.qq.com/) // Done
 - [《Linux 系统命令及脚本实战指南》](https://weread.qq.com/) // ToDo
 - [《Unix 编程艺术》](https://weread.qq.com/) // ToDo
+- [《Unix 网络编程 卷1 套接字联网API》] // ToDo
+- [《Unix 网络编程 卷2 进程间通信》] // ToDo
 
 ## TCP (1/2)
 
@@ -65,13 +68,14 @@
 
 - [《图解 HTTP》](https://weread.qq.com/) // Done
 
-## Algorithms (1/7)
+## Algorithms (1/8)
 
 - [《算法图解》](https://weread.qq.com/) // Done
 - [《编程之美》](https://weread.qq.com/) // ToDo
 - [《剑指 offer》](https://weread.qq.com/) // ToDo
 - [《Go 程序员面试算法宝典》](https://weread.qq.com/) // ToDo
 - [《程序员代码面试指南：IT名企算法与数据结构题目最优解（第二版）》](https://weread.qq.com/) // ToDo
+- 《挑战程序设计竞赛》 // ToDo
 - 《编程珠玑》 // ToDo
 - 《算法》 // ToDo
 - 《算法导论》 // ToDo
@@ -110,7 +114,8 @@
 - [《Docker:容器与容器云（第二版）》](https://weread.qq.com/) // ToDo
 - [《深入浅出Docker》](https://weread.qq.com/) // ToDo
 
-## Others (1/2)
+## Others (1/3)
 
 - [《程序员修炼之道:程序设计入门30讲》](https://weread.qq.com/) // Done
 - [《程序员面试经典（第六版）》](https://weread.qq.com/) // Doing
+- [《软技能:代码之外的生存指南）》] // Doing
