@@ -57,7 +57,7 @@
 - [《穿越计算机的迷雾》](https://weread.qq.com/) // Done
 - [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/labs.html) // Doing
 
-## `*Operating System (1/6)*`
+## *`Operating System (1/6)`*
 
 ### Operating System (0/1)
 - 《现代操作系统》 // ToDo
@@ -70,7 +70,7 @@
 - 《Unix 网络编程 卷1 套接字联网API》 // ToDo
 - 《Unix 网络编程 卷2 进程间通信》 // ToDo
 
-## `*Computer Networks (2/3)*`
+## *`Computer Networks (2/3)`*
 
 ### TCP/IP (1/2)
 
@@ -81,7 +81,7 @@
 
 - [《图解 HTTP》](https://weread.qq.com/) // Done
 
-## `*Algorithms (1/9)*`
+## *`Algorithms (1/9)`*
 
 - [《算法图解》](https://weread.qq.com/) // Done
 - [《编程之美》](https://weread.qq.com/) // ToDo
@@ -94,7 +94,7 @@
 - 《算法》 // ToDo
 - 《算法导论》 // ToDo
 
-## `*Database (2/7)*`
+## *`Database (2/7)`*
 
 - [《七周七数据库》](https://weread.qq.com/) // ToDo
 - [《MySQL 必知必会》](https://weread.qq.com/) // Done
@@ -104,28 +104,28 @@
 - 《Redis 实战》 // ToDo
 - [《Redis 设计与实现》](https://weread.qq.com/) // ToDo
 
-## `*Code Arts (0/4)*`
+## *`Code Arts (0/4)`*
 
 - 《代码大全》 // ToDo
 - 《编写可读代码的艺术》 // ToDo
 - 《修改代码的艺术》 // ToDo
 - 《重构：改善既有代码的设计》 // ToDo
 
-## `*Design pattern (0/1)*`
+## *`Design pattern (0/1)`*
 
 - [《设计模式之禅（第二版）》](https://weread.qq.com/) // ToDo
 
-## `*Microservice (0/1)*`
+## *`Microservice (0/1)`*
 
 - [《微服务设计》](https://weread.qq.com/) // ToDo
 
-## `*Docker (0/3)*`
+## *`Docker (0/3)`*
 
 - [《Docker — 从入门到实践》](https://books.studygolang.com/docker_practice/) // ToDo
 - [《Docker:容器与容器云（第二版）》](https://weread.qq.com/) // ToDo
 - [《深入浅出Docker》](https://weread.qq.com/) // ToDo
 
-## `*Others (1/3)*`
+## *`Others (1/3)`*
 
 - [《程序员修炼之道:程序设计入门30讲》](https://weread.qq.com/) // Done
 - [《程序员面试经典（第六版）》](https://weread.qq.com/) // Doing
