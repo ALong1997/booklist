@@ -1,26 +1,33 @@
 # My Book list
 
-📚 技术书单涵盖：编程语言、计算机系统、网络协议、算法与数据结构、数据库、代码艺术、设计模式、系统架构、微服务、程序员职业修炼等相关书籍。
-
->书单不断扩充并更新中,目前:  
->- ToDo: 36/55
->- Doing: 2/55
->- Done: 17/55
-
-
-[***My Notes***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
+📚 技术书单涵盖：编程语言、计算机系统、操作系统、计算机网络、算法、数据库、代码艺术、设计模式、微服务、容器、程序员职业修炼等相关书籍。
 
 **如何找书：**
 - [微信读书](https://weread.qq.com/)
+- [Github](https://github.com/)
 - [Go语言中文网](https://books.studygolang.com/gopl-zh/)
-- [github](https://github.com/)
 - [图灵社区](https://www.ituring.com.cn/)
 - [IT电子书下载网站](https://www.iteye.com/blog/rensanning-1874125)
 - 群文件
 - 实体书
 
+---
+**书单不断扩充并更新中,当前个人阅读进度:**
+- ToDo: 36/55
+- Doing: 2/55
+- Done: 17/55
 
-## Golang (8/12)
+**Doing:**
+- [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/labs.html) // Doing
+- [《程序员面试经典（第六版）》](https://weread.qq.com/) // Doing
+
+
+[***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
+
+---
+## Language (9/16)
+
+### Golang (8/12)
 
 - [《Go 程序设计语言》](https://books.studygolang.com/gopl-zh/) // Done
 - [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
@@ -30,41 +37,47 @@
 - [《Go 学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // Done
 - [《Go 学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // Done
 - [《Go 语言设计与实现》](https://draveness.me/golang/) // Done
-- [《Go并发编程实战》] // ToDo
+- 《Go并发编程实战》 // ToDo
 - [《GO专家编程》](https://books.studygolang.com/GoExpertProgramming/) // ToDo
 - [《Go 语言高级编程》](https://weread.qq.com/) // ToDo
 - [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
 
-## Python (0/1)
+### Python (0/1)
 
 - [《Python 编程：从入门到实践》](https://weread.qq.com/) // ToDo
 
-## C++ (1/3)
+### C++ (1/3)
 
-- [《高质量程序设计指南 ———— C/C++语言》](./clean-code/代码整洁之道.pdf) // Done
+- [《高质量程序设计指南 ———— C/C++语言》](https://weread.qq.com/) // Done
 - 《STL源码剖析》 // ToDo
 - 《Inside The C++ Object Model》 // ToDo
 
-## Computer system (1/3)
+## Computer System (1/2)
 
 - [《穿越计算机的迷雾》](https://weread.qq.com/) // Done
 - [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/labs.html) // Doing
+
+## Operating System (1/6)
+
+### Operating System (0/1)
 - 《现代操作系统》 // ToDo
 
-## Linux / Unix (1/5)
+### Linux / Unix (1/5)
 
 - [《Linux 就该这么学》](https://weread.qq.com/) // Done
 - [《Linux 系统命令及脚本实战指南》](https://weread.qq.com/) // ToDo
 - [《Unix 编程艺术》](https://weread.qq.com/) // ToDo
-- [《Unix 网络编程 卷1 套接字联网API》] // ToDo
-- [《Unix 网络编程 卷2 进程间通信》] // ToDo
+- 《Unix 网络编程 卷1 套接字联网API》 // ToDo
+- 《Unix 网络编程 卷2 进程间通信》 // ToDo
 
-## TCP (1/2)
+## Computer Networks (2/3)
+
+### TCP/IP (1/2)
 
 - [《漫话IP:TCP/IP基础知识读本》](https://weread.qq.com/) // Done
 - 《TCP/IP 详解 卷 1：协议》 // ToDo
 
-## HTTP (1/1)
+### HTTP (1/1)
 
 - [《图解 HTTP》](https://weread.qq.com/) // Done
 
@@ -92,11 +105,11 @@
 - [《Redis 设计与实现》](https://weread.qq.com/) // ToDo
 
 
-## Clean code (0/4)
+## Code Arts (0/4)
 
-- [《代码大全》](./clean-code/代码大全.pdf) // ToDo
-- [《编写可读代码的艺术》](./clean-code/编写可读代码的艺术.pdf) // ToDo
-- [《修改代码的艺术》](./clean-code/修改代码的艺术.pdf) // ToDo
+- 《代码大全》 // ToDo
+- 《编写可读代码的艺术》 // ToDo
+- 《修改代码的艺术》 // ToDo
 - 《重构：改善既有代码的设计》 // ToDo
 
 ## Design pattern (0/1)
@@ -118,4 +131,4 @@
 
 - [《程序员修炼之道:程序设计入门30讲》](https://weread.qq.com/) // Done
 - [《程序员面试经典（第六版）》](https://weread.qq.com/) // Doing
-- [《软技能:代码之外的生存指南）》] // Doing
+- 《软技能:代码之外的生存指南）》 // ToDo
