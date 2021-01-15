@@ -27,7 +27,7 @@
 ---
 ## *`Language (9/16)`*
 
-### Golang (8/12)
+### `Golang (8/12)`
 
 - [《Go 程序设计语言》](https://books.studygolang.com/gopl-zh/) // Done
 - [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
@@ -42,11 +42,11 @@
 - [《Go 语言高级编程》](https://weread.qq.com/) // ToDo
 - [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
 
-### Python (0/1)
+### `Python (0/1)`
 
 - [《Python 编程：从入门到实践》](https://weread.qq.com/) // ToDo
 
-### C++ (1/3)
+### `C++ (1/3)`
 
 - [《高质量程序设计指南 ———— C/C++语言》](https://weread.qq.com/) // Done
 - 《STL源码剖析》 // ToDo
@@ -59,10 +59,10 @@
 
 ## *`Operating System (1/6)`*
 
-### Operating System (0/1)
+### `Operating System (0/1)`
 - 《现代操作系统》 // ToDo
 
-### Linux / Unix (1/5)
+### `Linux / Unix (1/5)`
 
 - [《Linux 就该这么学》](https://weread.qq.com/) // Done
 - [《Linux 系统命令及脚本实战指南》](https://weread.qq.com/) // ToDo
@@ -72,12 +72,12 @@
 
 ## *`Computer Networks (2/3)`*
 
-### TCP/IP (1/2)
+### `TCP/IP (1/2)`
 
 - [《漫话IP:TCP/IP基础知识读本》](https://weread.qq.com/) // Done
 - 《TCP/IP 详解 卷 1：协议》 // ToDo
 
-### HTTP (1/1)
+### `HTTP (1/1)`
 
 - [《图解 HTTP》](https://weread.qq.com/) // Done
 
