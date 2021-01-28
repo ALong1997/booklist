@@ -14,12 +14,11 @@
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
 - ToDo: 36/55
-- Doing: 2/55
-- Done: 17/55
+- Doing: 1/55
+- Done: 18/55
 
 **Doing:**
 - [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/labs.html) // Doing
-- [《程序员面试经典（第六版）》](https://weread.qq.com/) // Doing
 
 
 [***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
@@ -125,8 +124,8 @@
 - [《Docker:容器与容器云（第二版）》](https://weread.qq.com/) // ToDo
 - [《深入浅出Docker》](https://weread.qq.com/) // ToDo
 
-## *`Others (1/3)`*
+## *`Others (2/3)`*
 
 - [《程序员修炼之道:程序设计入门30讲》](https://weread.qq.com/) // Done
-- [《程序员面试经典（第六版）》](https://weread.qq.com/) // Doing
+- [《程序员面试经典（第六版）》](https://weread.qq.com/) // Done
 - 《软技能:代码之外的生存指南）》 // ToDo
