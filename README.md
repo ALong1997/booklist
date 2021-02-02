@@ -90,7 +90,7 @@
 - 《计算机程序设计艺术》 // ToDo
 - 《挑战程序设计竞赛》 // ToDo
 - 《编程珠玑》 // ToDo
-- 《算法》 // ToDo
+- [《算法（第4版）》](https://weread.qq.com/) // ToDo
 - 《算法导论》 // ToDo
 
 ## *`Database (2/7)`*
