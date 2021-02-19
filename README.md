@@ -14,11 +14,11 @@
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
 - ToDo: 36/55
-- Doing: 1/55
-- Done: 18/55
+- Doing: 0/55
+- Done: 19/55
 
 **Doing:**
-- [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/labs.html) // Doing
+- 暂无
 
 
 [***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
@@ -51,10 +51,10 @@
 - 《STL源码剖析》 // ToDo
 - 《Inside The C++ Object Model》 // ToDo
 
-## *`Computer System (1/2)`*
+## *`Computer System (2/2)`*
 
 - [《穿越计算机的迷雾》](https://weread.qq.com/) // Done
-- [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/labs.html) // Doing
+- [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/labs.html) // Done
 
 ## *`Operating System (1/6)`*
 
