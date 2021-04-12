@@ -4,18 +4,17 @@
 
 **如何找书：**
 - [微信读书](https://weread.qq.com/)
-- [Github](https://github.com/)
+- [Github](https://github.com/ALong1108/free-programming-books-zh_CN)
 - [Go语言中文网](https://books.studygolang.com/gopl-zh/)
 - [图灵社区](https://www.ituring.com.cn/)
-- [IT电子书下载网站](https://www.iteye.com/blog/rensanning-1874125)
 - 群文件
 - 实体书
 
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
-- ToDo: 37/56
-- Doing: 0/56
-- Done: 19/56
+- ToDo: 37/57
+- Doing: 0/57
+- Done: 19/57
 
 **Doing:**
 - 暂无
@@ -24,9 +23,9 @@
 [***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
 
 ---
-## *`Language (9/16)`*
+## *`Language (9/17)`*
 
-### `Golang (8/12)`
+### `Golang (8/13)`
 
 - [《Go 程序设计语言》](https://books.studygolang.com/gopl-zh/) // Done
 - [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
@@ -36,8 +35,9 @@
 - [《Go 学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // Done
 - [《Go 学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // Done
 - [《Go 语言设计与实现》](https://draveness.me/golang/) // Done
-- 《Go并发编程实战》 // ToDo
-- [《GO专家编程》](https://books.studygolang.com/GoExpertProgramming/) // ToDo
+- 《Go 并发编程实战》 // ToDo
+- 《Go 语言实战》 // ToDo
+- [《GO 专家编程》](https://books.studygolang.com/GoExpertProgramming/) // ToDo
 - [《Go 语言高级编程》](https://weread.qq.com/) // ToDo
 - [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
 
@@ -59,6 +59,7 @@
 ## *`Operating System (1/6)`*
 
 ### `Operating System (0/1)`
+
 - 《现代操作系统》 // ToDo
 
 ### `Linux / Unix (1/6)`
@@ -111,9 +112,10 @@
 - 《修改代码的艺术》 // ToDo
 - 《重构：改善既有代码的设计》 // ToDo
 
-## *`Design pattern (0/1)`*
+## *`Design pattern (0/2)`*
 
 - [《设计模式之禅（第二版）》](https://weread.qq.com/) // ToDo
+- [《Go 语言设计模式》](https://github.com/senghoo/golang-design-pattern) // ToDo
 
 ## *`Microservice (0/1)`*
 
