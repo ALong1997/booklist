@@ -12,9 +12,9 @@
 
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
-- ToDo: 37/57
+- ToDo: 36/57
 - Doing: 0/57
-- Done: 20/57
+- Done: 21/57
 
 **Doing:**
 
@@ -126,8 +126,8 @@
 - [《Docker:容器与容器云（第二版）》](https://weread.qq.com/) // ToDo
 - [《深入浅出Docker》](https://weread.qq.com/) // ToDo
 
-## *`Others (2/3)`*
+## *`Others (3/3)`*
 
 - [《程序员修炼之道:程序设计入门30讲》](https://weread.qq.com/) // Done
 - [《程序员面试经典（第六版）》](https://weread.qq.com/) // Done
-- 《软技能:代码之外的生存指南）》 // ToDo
+- 《软技能:代码之外的生存指南）》 // Done
