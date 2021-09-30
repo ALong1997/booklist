@@ -12,8 +12,8 @@
 
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
-- ToDo: 36/57
-- Doing: 0/57
+- ToDo: 35/57
+- Doing: 1/57
 - Done: 21/57
 
 **Doing:**
@@ -64,7 +64,7 @@
 ### `Linux / Unix (1/6)`
 
 - [《Linux 就该这么学》](https://weread.qq.com/) // Done
-- [《Linux命令行大全 第2版》](https://weread.qq.com/) // Done
+- [《Linux命令行大全 第2版》](https://weread.qq.com/) // Doing
 - [《Linux 系统命令及脚本实战指南》](https://weread.qq.com/) // ToDo
 - [《Unix 编程艺术》](https://weread.qq.com/) // ToDo
 - 《Unix 网络编程 卷1 套接字联网API》 // ToDo
