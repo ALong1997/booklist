@@ -12,11 +12,11 @@
 
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
-- ToDo: 35/57
-- Doing: 0/57
-- Done: 22/57
+- ToDo: 35/58
+- Doing: 1/58
+- Done: 23/58
 
-**Doing:**
+**Doing:《TCP/IP 详解 卷 1：协议》**
 
 
 [***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
@@ -70,12 +70,13 @@
 - 《Unix 网络编程 卷1 套接字联网API》 // ToDo
 - 《Unix 网络编程 卷2 进程间通信》 // ToDo
 
-## *`Computer Networks (2/3)`*
+## *`Computer Networks (3/4)`*
 
-### `TCP/IP (1/2)`
+### `TCP/IP (2/3)`
 
 - [《漫话IP:TCP/IP基础知识读本》](https://weread.qq.com/) // Done
-- 《TCP/IP 详解 卷 1：协议》 // ToDo
+- [《TCP-IP协议及其应用》](https://weread.qq.com/) // Done
+- 《TCP/IP 详解 卷 1：协议》 // Doing
 
 ### `HTTP (1/1)`
 
