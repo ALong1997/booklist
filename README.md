@@ -12,9 +12,9 @@
 
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
-- ToDo: 31/58
-- Doing: 1/58
-- Done: 26/58
+- ToDo: 32/59
+- Doing: 1/59
+- Done: 26/59
 
 **Doing:《Redis 设计与实现》**
 
@@ -22,7 +22,7 @@
 [***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
 
 ---
-## *`Language (9/17)`*
+## *`Language (10/17)`*
 
 ### `Golang (9/13)`
 
@@ -55,7 +55,7 @@
 - [《穿越计算机的迷雾》](https://weread.qq.com/) // Done
 - [《深入理解计算机系统》](http://csapp.cs.cmu.edu/3e/labs.html) // Done
 
-## *`Operating System (1/6)`*
+## *`Operating System (2/7)`*
 
 ### `Operating System (0/1)`
 
@@ -70,7 +70,7 @@
 - 《Unix 网络编程 卷1 套接字联网API》 // ToDo
 - 《Unix 网络编程 卷2 进程间通信》 // ToDo
 
-## *`Computer Networks (3/4)`*
+## *`Computer Networks (4/4)`*
 
 ### `TCP/IP (3/3)`
 
