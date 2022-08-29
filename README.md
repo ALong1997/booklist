@@ -12,11 +12,11 @@
 
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
-- ToDo: 34/58
+- ToDo: 31/58
 - Doing: 1/58
-- Done: 23/58
+- Done: 26/58
 
-**Doing:《TCP/IP 详解 卷 1：协议》**
+**Doing:《Redis 设计与实现》**
 
 
 [***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
@@ -72,11 +72,11 @@
 
 ## *`Computer Networks (3/4)`*
 
-### `TCP/IP (2/3)`
+### `TCP/IP (3/3)`
 
 - [《漫话IP:TCP/IP基础知识读本》](https://weread.qq.com/) // Done
 - [《TCP-IP协议及其应用》](https://weread.qq.com/) // Done
-- 《TCP/IP 详解 卷 1：协议》 // Doing
+- 《TCP/IP 详解 卷 1：协议》 // Done
 
 ### `HTTP (1/1)`
 
@@ -95,15 +95,15 @@
 - [《算法（第4版）》](https://weread.qq.com/) // ToDo
 - 《算法导论》 // ToDo
 
-## *`Database (2/7)`*
+## *`Database (4/7)`*
 
-- [《七周七数据库》](https://weread.qq.com/) // ToDo
+- [《七周七数据库》](https://weread.qq.com/) // Done
 - [《MySQL 必知必会》](https://weread.qq.com/) // Done
 - [《MySQL 技术内幕：InnoDB 存储引擎》](https://weread.qq.com/) // ToDo
 - [《MySQL 技术内幕：SQL 编程》](https://weread.qq.com/) // Done
 - 《高性能MySQL（第三版）》 // ToDo
-- 《Redis 实战》 // ToDo
-- [《Redis 设计与实现》](https://weread.qq.com/) // ToDo
+- 《Redis 实战》 // Done
+- [《Redis 设计与实现》](https://weread.qq.com/) // Doing
 
 ## *`Code Arts (0/4)`*
 
