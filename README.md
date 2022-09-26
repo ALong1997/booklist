@@ -13,8 +13,8 @@
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
 - ToDo: 32/59
-- Doing: 1/59
-- Done: 26/59
+- Doing: 0/59
+- Done: 27/59
 
 **Doing:《Redis 设计与实现》**
 
@@ -95,7 +95,7 @@
 - [《算法（第4版）》](https://weread.qq.com/) // ToDo
 - 《算法导论》 // ToDo
 
-## *`Database (4/7)`*
+## *`Database (5/7)`*
 
 - [《七周七数据库》](https://weread.qq.com/) // Done
 - [《MySQL 必知必会》](https://weread.qq.com/) // Done
@@ -103,7 +103,7 @@
 - [《MySQL 技术内幕：SQL 编程》](https://weread.qq.com/) // Done
 - 《高性能MySQL（第三版）》 // ToDo
 - 《Redis 实战》 // Done
-- [《Redis 设计与实现》](https://weread.qq.com/) // Doing
+- [《Redis 设计与实现》](https://weread.qq.com/) // Done
 
 ## *`Code Arts (0/4)`*
 
