@@ -12,9 +12,9 @@
 
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
-- ToDo: 32/59
+- ToDo: 31/59
 - Doing: 0/59
-- Done: 27/59
+- Done: 28/59
 
 **Doing:《Redis 设计与实现》**
 
@@ -22,9 +22,9 @@
 [***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
 
 ---
-## *`Language (10/17)`*
+## *`Language (11/17)`*
 
-### `Golang (9/13)`
+### `Golang (10/13)`
 
 - [《Go 程序设计语言》](https://books.studygolang.com/gopl-zh/) // Done
 - [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
@@ -35,7 +35,7 @@
 - [《Go 学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // Done
 - [《Go 语言设计与实现》](https://draveness.me/golang/) // Done
 - 《Go 并发编程实战（第二版）》 // Done
-- 《Go 语言实战》 // ToDo
+- 《Go 语言实战》 // Done
 - [《GO 专家编程》](https://books.studygolang.com/GoExpertProgramming/) // ToDo
 - [《Go 语言高级编程》](https://weread.qq.com/) // ToDo
 - [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
