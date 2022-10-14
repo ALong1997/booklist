@@ -16,9 +16,6 @@
 - Doing: 1/62
 - Done: 29/62
 
-**Doing:《Redis 设计与实现》**
-
-
 [***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
 
 ---
