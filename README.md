@@ -103,7 +103,7 @@
 - [《MySQL 技术内幕：SQL 编程》](https://weread.qq.com/) // Done
 - 《我们都是小青蛙MySQL系列文章》 // Done
 - 《MySQL排错指南》 // ToDo
-- 《高性能MySQL（第三版）》 // ToDo
+- 《高性能MySQL（第四版）》 // ToDo
 - 《数据库索引设计与优化》 // ToDo
 - 《Redis 实战》 // Done
 - [《Redis 设计与实现》](https://weread.qq.com/) // Done
