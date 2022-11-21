@@ -12,9 +12,9 @@
 
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
-- ToDo: 33/63
+- ToDo: 32/63
 - Doing: 1/63
-- Done: 29/63
+- Done: 30/63
 
 [***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
 
@@ -99,8 +99,8 @@
 - [《MySQL 技术内幕：InnoDB 存储引擎》](https://weread.qq.com/) // ToDo
 - [《MySQL 技术内幕：SQL 编程》](https://weread.qq.com/) // Done
 - 《我们都是小青蛙MySQL系列文章》 // Done
-- 《高性能MySQL（第四版）》 // Doing
-- 《MySQL是怎样运行的：从根儿上理解 MySQL》 // ToDo
+- 《高性能MySQL（第四版）》 // Done
+- 《MySQL是怎样运行的：从根儿上理解 MySQL》 // Doing
 - 《MySQL排错指南》 // ToDo
 - 《数据库索引设计与优化》 // ToDo
 - 《Redis 实战》 // Done
