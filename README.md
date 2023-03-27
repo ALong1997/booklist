@@ -30,10 +30,10 @@
 - [《Go Web 编程》](https://weread.qq.com/) // Done
 - [《Go 学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // Done
 - [《Go 学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // Done
-- [《Go 语言设计与实现》](https://books.studygolang.com/GoExpertProgramming/) // Done
+- [《Go 语言设计与实现》](https://draveness.me/golang/) // Done
 - 《Go 并发编程实战（第二版）》 // Done
 - 《Go 语言实战》 // Done
-- [《GO 专家编程》](https://rainbowmango.gitbook.io/go/) // Doing
+- [《GO 专家编程》](https://books.studygolang.com/GoExpertProgramming/) // Doing
 - [《Go 语言高级编程》](https://weread.qq.com/) // Doing
 - [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
 
