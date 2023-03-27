@@ -12,9 +12,9 @@
 
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
-- ToDo: 32/63
-- Doing: 1/63
-- Done: 30/63
+- ToDo: 30/63
+- Doing: 2/63
+- Done: 31/63
 
 [***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
 
@@ -33,8 +33,8 @@
 - [《Go 语言设计与实现》](https://draveness.me/golang/) // Done
 - 《Go 并发编程实战（第二版）》 // Done
 - 《Go 语言实战》 // Done
-- [《GO 专家编程》](https://books.studygolang.com/GoExpertProgramming/) // ToDo
-- [《Go 语言高级编程》](https://weread.qq.com/) // ToDo
+- [《GO 专家编程》](https://books.studygolang.com/GoExpertProgramming/) // Doing
+- [《Go 语言高级编程》](https://weread.qq.com/) // Doing
 - [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
 
 ### `Python (0/1)`
@@ -92,7 +92,7 @@
 - [《算法（第4版）》](https://weread.qq.com/) // ToDo
 - 《算法导论》 // ToDo
 
-## *`Database (6/11)`*
+## *`Database (7/11)`*
 
 - [《七周七数据库》](https://weread.qq.com/) // Done
 - [《MySQL 必知必会》](https://weread.qq.com/) // Done
@@ -100,7 +100,7 @@
 - [《MySQL 技术内幕：SQL 编程》](https://weread.qq.com/) // Done
 - 《我们都是小青蛙MySQL系列文章》 // Done
 - 《高性能MySQL（第四版）》 // Done
-- 《MySQL是怎样运行的：从根儿上理解 MySQL》 // Doing
+- 《MySQL是怎样运行的：从根儿上理解 MySQL》 // Done
 - 《MySQL排错指南》 // ToDo
 - 《数据库索引设计与优化》 // ToDo
 - 《Redis 实战》 // Done
