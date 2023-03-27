@@ -33,7 +33,7 @@
 - [《Go 语言设计与实现》](https://draveness.me/golang/) // Done
 - 《Go 并发编程实战（第二版）》 // Done
 - 《Go 语言实战》 // Done
-- [《GO 专家编程》](https://books.studygolang.com/GoExpertProgramming/) // Doing
+- [《GO 专家编程》](https://rainbowmango.gitbook.io/go/) // Doing
 - [《Go 语言高级编程》](https://weread.qq.com/) // Doing
 - [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
 
