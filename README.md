@@ -13,8 +13,8 @@
 ---
 **书单不断扩充并更新中,当前个人阅读进度:**
 - ToDo: 30/63
-- Doing: 1/63
-- Done: 32/63
+- Doing: 0/63
+- Done: 33/63
 
 [***This is my reading notes.***](http://note.youdao.com/noteshare?id=3492f772f5e01ca5abab4f176964cf0e)
 
@@ -34,7 +34,7 @@
 - 《Go 并发编程实战（第二版）》 // Done
 - 《Go 语言实战》 // Done
 - [《GO 专家编程》](https://books.studygolang.com/GoExpertProgramming/) // Done
-- [《Go 语言高级编程》](https://weread.qq.com/) // Doing
+- [《Go 语言高级编程》](https://weread.qq.com/) // Done
 - [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
 
 ### `Python (0/1)`
