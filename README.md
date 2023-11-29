@@ -23,19 +23,21 @@
 
 ### `Golang (10/13)`
 
-- [《Go 程序设计语言》](https://books.studygolang.com/gopl-zh/) // Done
-- [《Go 语言开发实战（慕课版）》](https://weread.qq.com/) // Done
-- [《Go 语言从入门进阶到实战（视频教学版）》](https://weread.qq.com/) // Done
+- [《Go程序设计语言》](https://books.studygolang.com/gopl-zh/) // Done
+- [《Go语言开发实战（慕课版）》](https://weread.qq.com/) // Done
+- [《Go语言从入门进阶到实战（视频教学版）》](https://weread.qq.com/) // Done
 - [《Effective Go》](https://learnku.com/docs/effective-go/2020) // Done
-- [《Go Web 编程》](https://weread.qq.com/) // Done
-- [《Go 学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // Done
-- [《Go 学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // Done
-- [《Go 语言设计与实现》](https://draveness.me/golang/) // Done
-- 《Go 并发编程实战（第二版）》 // Done
-- 《Go 语言实战》 // Done
-- [《GO 专家编程》](https://books.studygolang.com/GoExpertProgramming/) // Done
-- [《Go 语言高级编程》](https://weread.qq.com/) // Done
+- [《GoWeb 编程》](https://weread.qq.com/) // Done
+- [《Go学习笔记（第四版）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%9B%9B%E7%89%88.pdf) // Done
+- [《Go学习笔记（第六版下卷）》](https://github.com/qyuhen/book/blob/master/Go%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20%E7%AC%AC%E5%85%AD%E7%89%88%20%E4%B8%8B%E5%8D%B7%20-%20%E9%A2%84%E8%A7%88.pdf) // Done
+- [《Go语言设计与实现》](https://draveness.me/golang/) // Done
+- 《Go并发编程实战（第二版）》 // Done
+- 《Go语言实战》 // Done
+- [《Go专家编程》](https://books.studygolang.com/GoExpertProgramming/) // Done
+- [《Go语言高级编程》](https://weread.qq.com/) // Done
 - [《深入解析Go》](https://books.studygolang.com/go-internals/) // ToDo
+- [《深入理解Go语言》](https://weread.qq.com/) // ToDo
+- [《Go语言底层原理剖析》](https://weread.qq.com/) // ToDo
 
 ### `Python (0/1)`
 
@@ -84,7 +86,7 @@
 - [《算法图解》](https://weread.qq.com/) // Done
 - [《编程之美》](https://weread.qq.com/) // ToDo
 - [《剑指 offer》](https://weread.qq.com/) // ToDo
-- [《Go 程序员面试算法宝典》](https://weread.qq.com/) // ToDo
+- [《Go程序员面试算法宝典》](https://weread.qq.com/) // ToDo
 - [《程序员代码面试指南：IT名企算法与数据结构题目最优解（第二版）》](https://weread.qq.com/) // ToDo
 - 《计算机程序设计艺术》 // ToDo
 - 《挑战程序设计竞赛》 // ToDo
@@ -116,7 +118,7 @@
 ## *`Design pattern (0/2)`*
 
 - [《设计模式之禅（第二版）》](https://weread.qq.com/) // ToDo
-- [《Go 语言设计模式》](https://github.com/senghoo/golang-design-pattern) // ToDo
+- [《Go语言设计模式》](https://github.com/senghoo/golang-design-pattern) // ToDo
 
 ## *`Microservice (0/1)`*
 
